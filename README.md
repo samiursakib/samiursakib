@@ -3,27 +3,37 @@
 
 
 - 🔭 I’m currently working on [video-conference](https://github.com/samiursakib/video-conference)
-
 - 🌱 I’m currently learning **Next.js framework and exploring the associate packages**
-
 - 👯 I’m looking to collaborate on [29-card-game](https://github.com/M0NJURUL/29-card-game)
-
 - 👨‍💻 All of my projects are available at [https://portfolio-six-pi-92.vercel.app](https://portfolio-six-pi-92.vercel.app)
-
 - 💬 Ask me about **React, socket.io and peer.js**
-
 - 📫 How to reach me **rafisamiur@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
 
+[![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-<a href="https://dev.to/samiursakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiursakib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafi-sakib-799b19228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-sakib-799b19228" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13264167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13264167" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/1704062_samiur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1704062_samiur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samiurrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiurrafi" height="30" width="40" /></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/rafi-sakib-799b19228" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-sakib-799b19228" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/13264167" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13264167" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/1704062_samiur" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1704062_samiur" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.leetcode.com/samiurrafi" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiurrafi" height="30" width="30" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://dev.to/samiursakib" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiursakib" height="30" width="30" />
+    </a>
 </p>
 
 
