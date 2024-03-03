@@ -39,7 +39,7 @@
 
 <h2>My activity</h2>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=83f28f&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Languages</h2>
 <p>
