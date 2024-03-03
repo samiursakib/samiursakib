@@ -62,7 +62,8 @@
 <h2>Frontend</h2>
 <p>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="./icons8-nextjs-black.svg#gh-light-mode-only" alt="nextjs" width="40" height="40"/>
+    <img src="./icons8-nextjs-white.svg#gh-dark-mode-only" alt="nextjs" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
