@@ -12,7 +12,8 @@
 
 
 <h2>My GitHub Activity</h2>
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>Connect with me</h2>
@@ -125,4 +126,7 @@
 
 
 <h2>My GitHub Stats</h2>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    
+[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</p>
