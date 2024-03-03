@@ -129,6 +129,6 @@
 <h2>My stats</h2>
 <p align="center">
     
-[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=33335f&text_color=555555)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=33334f&text_color=33334f)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
