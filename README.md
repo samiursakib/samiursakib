@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafi Sakib</h1>
 <h3 align="center">
-    An impassioned developer
+    An impassioned developer | 
     Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries
 </h3>
 
@@ -12,12 +12,6 @@
 - 💬 Ask me about **Next.js, React, socket.io and peer.js**
 - 📫 Reach out to me through **rafisamiur@gmail.com**
 - 📄 Know about my experiences [in my resume](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
-
-
-<h2>My activity</h2>
-
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <h2>Connect with me</h2>
 <p>
@@ -42,6 +36,12 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiursakib" height="30" width="30" />
     </a>
 </p>
+
+<h2>My activity</h2>
+
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
