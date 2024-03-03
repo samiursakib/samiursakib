@@ -2,7 +2,6 @@
 <h3 align="center">An impassioned developer</h3>
 <h3 align="center">Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries</h3>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 - 🔭 I’m currently working on [video conference](https://github.com/samiursakib/video-conference)
 - 🌱 I’m currently learning **Next.js framework and exploring the associate packages**
@@ -15,7 +14,7 @@
 
 <h2>My activity</h2>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>Connect with me</h2>
@@ -130,6 +129,6 @@
 <h2>My stats</h2>
 <p align="center">
     
-[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=bbbbbb&text_color=bbbbbb)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=333333&text_color=333333)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
