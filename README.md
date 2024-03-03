@@ -124,4 +124,4 @@
 
 
 <h2>My GitHub Stats</h2>
-[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
