@@ -6,10 +6,10 @@
 
 
 - 🔭 I’m currently working on [video conference](https://github.com/samiursakib/video-conference)
-- 🌱 I’m currently learning **Next.js framework and exploring the associate packages**
+- 🌱 I’m currently learning **Next.js** framework and exploring the associate packages
 - 👯 I’m looking to collaborate on [29 card game](https://github.com/M0NJURUL/29-card-game)
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
-- 💬 Ask me about **Next.js, React, socket.io and peer.js**
+- 💬 Ask me about **Next.js, React, socket.io & peer.js**
 - 📫 Reach out to me through **rafisamiur@gmail.com**
 - 📄 Know about my experiences [in my resume](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
 
@@ -17,23 +17,23 @@
 <p>
     &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/rafi-sakib-799b19228" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-sakib-799b19228" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi-sakib-799b19228" height="20" width="20" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/13264167" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13264167" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13264167" height="20" width="20" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/1704062_samiur" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1704062_samiur" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1704062_samiur" height="20" width="20" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.leetcode.com/samiurrafi" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiurrafi" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiurrafi" height="20" width="20" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://dev.to/samiursakib" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiursakib" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samiursakib" height="20" width="20" />
     </a>
 </p>
 
