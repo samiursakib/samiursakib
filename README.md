@@ -11,10 +11,8 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
 
 
-<h2>My GitHub Stats</h2>
-<p align="center">
-    [![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&hide_title=true&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+<h2>My GitHub Activity</h2>
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&custom_title=%20&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Connect with me</h2>
 <p>
@@ -125,4 +123,5 @@
 </p>
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<h2>My GitHub Stats</h2>
+[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
