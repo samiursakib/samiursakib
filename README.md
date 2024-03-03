@@ -88,6 +88,8 @@
     &nbsp;&nbsp;&nbsp;
     <img src="./icons8-expressjs-black.svg#gh-light-mode-only" alt="expressjs" width="40" height="40"/>
     <img src="./icons8-expressjs-white.svg#gh-dark-mode-only" alt="expressjs" width="40" height="40"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="./icons8-prisma-orm.svg" alt="prismaorm" width="40" height="40"/>
 </p>
 
 <h2>Database</h2>
