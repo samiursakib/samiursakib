@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rafi Sakib</h1>
-<h3 align="center">An impassioned developer | Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries</h3>
+<h3 align="center">An impassioned developer</h3>
+<h3 align="center">Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries</h3>
 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-- 🔭 I’m currently working on [video-conference](https://github.com/samiursakib/video-conference)
+- 🔭 I’m currently working on [video conference](https://github.com/samiursakib/video-conference)
 - 🌱 I’m currently learning **Next.js framework and exploring the associate packages**
-- 👯 I’m looking to collaborate on [29-card-game](https://github.com/M0NJURUL/29-card-game)
-- 👨‍💻 All of my projects are available at [https://portfolio-six-pi-92.vercel.app](https://portfolio-six-pi-92.vercel.app)
-- 💬 Ask me about **React, socket.io and peer.js**
-- 📫 How to reach me **rafisamiur@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
+- 👯 I’m looking to collaborate on [29 card game](https://github.com/M0NJURUL/29-card-game)
+- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
+- 💬 Ask me about **Next.js, React, socket.io and peer.js**
+- 📫 Reach out to me through **rafisamiur@gmail.com**
+- 📄 Know about my experiences [in my resume](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
 
 
-<h2>My GitHub Activity</h2>
+<h2>My activity</h2>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=%20&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>Connect with me</h2>
@@ -125,8 +127,9 @@
 </p>
 
 
-<h2>My GitHub Stats</h2>
+<h2>My stats</h2>
 <p align="center">
     
-[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=888888&text_color=888888)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
