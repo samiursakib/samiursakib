@@ -12,7 +12,8 @@
 
 
 <h2>My GitHub Activity</h2>
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&area_color=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h2>Connect with me</h2>
 <p>
