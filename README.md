@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafi Sakib</h1>
-<h3 align="center">An impassioned developer</h3>
-<h3 align="center">Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries</h3>
+<h3 align="center">
+    An impassioned developer
+    Unleashing Innovation through Code: Crafting Solutions and Pushing Boundaries
+</h3>
 
 
 - 🔭 I’m currently working on [video conference](https://github.com/samiursakib/video-conference)
