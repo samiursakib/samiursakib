@@ -10,7 +10,7 @@
 - 📫 How to reach me **rafisamiur@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
 
-[![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&custom_title=My%20Github%20activity&theme=github-compact&area=83f28f)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
