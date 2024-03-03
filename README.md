@@ -41,10 +41,6 @@
 
 [![activity](https://github-readme-activity-graph.vercel.app/graph?username=samiursakib&theme=github-compact&custom_title=past%2030%20days&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-
 <h2>Languages</h2>
 <p>
     &nbsp;&nbsp;&nbsp;
@@ -138,4 +134,4 @@
     
 [![stats](https://github-readme-stats.vercel.app/api?username=samiursakib&hide_title=true&theme=transparent&border_color=333340&text_color=aaaaaa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiursakib&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiursakib&theme=transparent&border_color=333340&text_color=aaaaaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
