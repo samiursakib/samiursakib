@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [video conference](https://github.com/samiursakib/video-conference)
 - 🌱 I’m currently learning **Next.js** framework and exploring the associate packages
-- 👯 I’m looking to collaborate on [29 card game](https://github.com/M0NJURUL/29-card-game)
+- 👯 I’m currently collaborating on [29 card game](https://github.com/M0NJURUL/29-card-game)
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
 - 💬 Ask me about **Next.js, React, socket.io & peer.js**
 - 📫 Reach out to me through **rafisamiur@gmail.com**
