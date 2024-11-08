@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
 - 💬 Ask me about **Next.js, React, socket.io & peer.js**
 - 📫 Reach out to me through **rafisamiur@gmail.com**
-- 📄 Know about my experiences [in my resume](https://drive.google.com/drive/folders/1Aen2wRIZtl7wIgekinYcfS3S_whm-x58?usp=sharing)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1i6XkjW9ooQMTbKtq2-8yopUuON9EFdIW/view?usp=drive_link)
 
 <h2>Connect with me</h2>
 <p>
