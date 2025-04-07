@@ -6,12 +6,12 @@
 
 
 - 🔭 I’m currently working on [animation-designs](https://github.com/samiursakib/animation-designs)
-- 🌱 I’m currently learning **Next.js** framework and exploring the associate packages
+- 🌱 I’m currently learning **Remix**, **Nest.js**, **Golang** and **Rust** framework and exploring the associate packages
 - 👯 I’m currently collaborating on [29 card game](https://github.com/M0NJURUL/29-card-game)
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
-- 💬 Ask me about **Next.js, React, socket.io & peer.js**
+- 💬 Let's discuss anything you find interest in
 - 📫 Reach out to me through **rafisamiur@gmail.com**
-- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1i6XkjW9ooQMTbKtq2-8yopUuON9EFdIW/view?usp=drive_link)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1KJMekP2HQxg2kRTkA7-kh2TQhBzA-jMW/view?usp=drive_link))
 
 <h2>Connect with me</h2>
 <p>
