@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [animation-designs](https://github.com/samiursakib/animation-designs)
-- 🌱 I’m currently learning **Remix**, **Nest.js** framework, **Golang**, **Rust** language and exploring the associate packages
+- 🌱 I’m currently learning **Remix**, **Nest.js** framework, **Golang**, **Rust** language and exploring the associate technologies
 - 👯 I’m currently collaborating on [29 card game](https://github.com/M0NJURUL/29-card-game)
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
 - 💬 Let's discuss anything you find interest in
