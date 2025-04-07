@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app)
 - 💬 Let's discuss anything you find interest in
 - 📫 Reach out to me through **rafisamiur@gmail.com**
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1KJMekP2HQxg2kRTkA7-kh2TQhBzA-jMW/view?usp=drive_link))
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1KJMekP2HQxg2kRTkA7-kh2TQhBzA-jMW/view?usp=drive_link)
 
 <h2>Connect with me</h2>
 <p>
