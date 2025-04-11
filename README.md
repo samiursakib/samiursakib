@@ -44,9 +44,9 @@
 <h2>Languages</h2>
 <p>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="typescript" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="typescript" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     &nbsp;&nbsp;&nbsp;
