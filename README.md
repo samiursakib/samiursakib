@@ -5,7 +5,7 @@
 </h3>
 
 
-- 🔭 I’m currently working on [type-in-terminal]([https://github.com/samiursakib/animation-designs](https://github.com/samiursakib/type-in-terminal)).
+- 🔭 I’m currently working on [type-in-terminal](https://github.com/samiursakib/type-in-terminal).
 - 🌱 I’m currently learning **Rust** language, **System Design** concepts and exploring the associate technologies.
 - 👯 I’m currently collaborating on [29 card game](https://github.com/M0NJURUL/29-card-game).
 - 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-six-pi-92.vercel.app).
